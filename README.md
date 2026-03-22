@@ -39,6 +39,10 @@
 
 > **注意:** Releasesページに表示される `Source code (zip/tar.gz)` はGitHubが自動生成するファイルで、アプリ本体・ソースコードは含まれていません。上記の `alpha-orbits-windows-*.zip` または `alpha-orbits-macos-*.zip` をダウンロードしてください。
 
+## ドキュメント
+
+- [ユーザーガイド](docs/ユーザーガイド.md)
+
 ## 開発フェーズ
 
 | バージョン | 状態 | 内容 |
