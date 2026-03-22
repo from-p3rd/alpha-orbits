@@ -37,6 +37,8 @@
 **macOS:** ZIPを展開して `Alpha Orbits.app` をアプリケーションフォルダに移動。
 初回起動時は右クリック→「開く」→「開く」の操作が必要です（Gatekeeper警告の回避）。
 
+> **注意:** Releasesページに表示される `Source code (zip/tar.gz)` はGitHubが自動生成するファイルで、アプリ本体・ソースコードは含まれていません。上記の `alpha-orbits-windows-*.zip` または `alpha-orbits-macos-*.zip` をダウンロードしてください。
+
 ## 開発フェーズ
 
 | バージョン | 状態 | 内容 |
